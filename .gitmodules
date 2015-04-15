@@ -1,0 +1,9 @@
+[submodule "Stephen Samra"]
+	path = Stephen Samra
+	url = https://github.com/stephen-samra/Programming-Lab-1-stephen-samra
+[submodule "Jane Doe"]
+	path = Jane Doe
+	url = https://github.com/stephen-samra-student/Programming-Lab-1-stephen-samra-student
+[submodule "John Smith"]
+	path = John Smith
+	url = https://github.com/stephen-samra-2/Programming-Lab-1-stephen-samra-2
